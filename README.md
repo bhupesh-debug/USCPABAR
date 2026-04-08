@@ -69,6 +69,15 @@ USCPABAR/
 │   └── README.md                          ← Revenue, Leases, Combinations, Derivatives, Consolidations
 ├── BAR5-State-Local-Governments/
 │   └── README.md                          ← Fund Accounting, Government Statements, CAFR
+├── TBS-Task-Based-Simulations/            ← 🔥 NEW: Complete TBS Guide & Walkthroughs
+│   ├── README.md                          ← TBS Strategy, Structure, Tips from Top Rankers
+│   ├── 01-Business-Combinations-Consolidations.md
+│   ├── 02-Lease-Accounting-Lessor.md
+│   ├── 03-Derivatives-Hedge-Accounting.md
+│   ├── 04-Revenue-Recognition-ASC606.md
+│   ├── 05-Variance-Analysis.md
+│   ├── 06-Government-Fund-Accounting.md
+│   └── 07-Financial-Statement-Analysis.md
 └── resources/
     └── README.md                          ← Links to study tools, blueprints, practice exams
 ```
@@ -122,15 +131,36 @@ Government accounting is a different universe. Instead of profit, governments ca
 
 ---
 
+## 📝 Task-Based Simulations (TBS) — 50% of Your Score!
+
+The [TBS-Task-Based-Simulations](./TBS-Task-Based-Simulations/) folder contains **complete deep-dive walkthroughs** for the 7 most-tested simulation areas, taught at the level of top 1% CPA instructors:
+
+| # | Topic | Frequency |
+|---|-------|----------|
+| 1 | [Business Combinations & Consolidations](./TBS-Task-Based-Simulations/01-Business-Combinations-Consolidations.md) | ⭐⭐⭐⭐⭐ |
+| 2 | [Lease Accounting (Lessor)](./TBS-Task-Based-Simulations/02-Lease-Accounting-Lessor.md) | ⭐⭐⭐⭐⭐ |
+| 3 | [Derivatives & Hedge Accounting](./TBS-Task-Based-Simulations/03-Derivatives-Hedge-Accounting.md) | ⭐⭐⭐⭐ |
+| 4 | [Revenue Recognition (ASC 606)](./TBS-Task-Based-Simulations/04-Revenue-Recognition-ASC606.md) | ⭐⭐⭐⭐ |
+| 5 | [Variance Analysis](./TBS-Task-Based-Simulations/05-Variance-Analysis.md) | ⭐⭐⭐⭐ |
+| 6 | [Government Fund Accounting](./TBS-Task-Based-Simulations/06-Government-Fund-Accounting.md) | ⭐⭐⭐ |
+| 7 | [Financial Statement Analysis & Ratios](./TBS-Task-Based-Simulations/07-Financial-Statement-Analysis.md) | ⭐⭐⭐ |
+
+Each file includes: step-by-step walkthroughs, journal entries, key formulas, common traps, mnemonics, and practice scenarios with solutions.
+
+> 🧠 **Mnemonic for TBS Topics: "BIG LIONS DEVOUR RAW VEGAN GREENS FAST"** — Business Combinations, Leases, Derivatives, Revenue, Variance, Government, Financial Analysis
+
+---
+
 ## 📝 Study Tips
 
 1. **Take BAR immediately after FAR** — the content overlap is massive
 2. **Aim for 1,000-1,500+ MCQs** before sitting
 3. **Start with Technical Accounting** (Area II) — leverages your FAR knowledge
-4. **Practice data analytics** — interpreting charts, scatter plots, trend lines
-5. **Create a fund comparison table** for government accounting
-6. **Use spaced repetition** — review mnemonics daily
-7. **Take 2+ full practice exams** under timed conditions
+4. **Master TBS** — they're 50% of your score! Use the [TBS walkthroughs](./TBS-Task-Based-Simulations/) above
+5. **Practice data analytics** — interpreting charts, scatter plots, trend lines
+6. **Create a fund comparison table** for government accounting
+7. **Use spaced repetition** — review mnemonics daily
+8. **Take 2+ full practice exams** under timed conditions
 
 ---
 
