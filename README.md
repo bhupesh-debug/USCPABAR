@@ -69,7 +69,9 @@ USCPABAR/
 │   └── README.md                          ← Revenue, Leases, Combinations, Derivatives, Consolidations
 ├── BAR5-State-Local-Governments/
 │   └── README.md                          ← Fund Accounting, Government Statements, CAFR
-├── TBS-Task-Based-Simulations/            ← 🔥 NEW: Complete TBS Guide & Walkthroughs
+├── Complete-Mastery-Blueprint/             ← 🏆 NEW: 30-Day Plan, Mindset, Quiz, Stories, Blog Outline
+│   └── README.md                          ← Full Mastery Blueprint (Roadmap + Regimen + Evaluation)
+├── TBS-Task-Based-Simulations/            ← 🔥 Complete TBS Guide & Walkthroughs
 │   ├── README.md                          ← TBS Strategy, Structure, Tips from Top Rankers
 │   ├── 01-Business-Combinations-Consolidations.md
 │   ├── 02-Lease-Accounting-Lessor.md
@@ -128,6 +130,23 @@ Government accounting is a different universe. Instead of profit, governments ca
 | CPA Exam Guide - BAR | [CPA Exam Guide](https://www.cpaexamguide.com/section-guides/bar-cpa-exam-guide) |
 | BAR Exam Blueprint PDF | [Blueprint PDF](https://breezycpa.com/wp-content/uploads/2024/08/BAR.pdf) |
 | Maxwell CPA Review - BAR | [Maxwell BAR Course](https://courses.maxwellcpareview.com/courses/BAR) |
+
+---
+
+## 🏆 Complete Mastery Blueprint
+
+The [Complete-Mastery-Blueprint](./Complete-Mastery-Blueprint/) contains everything you need to go from beginner to exam-ready:
+
+- **The Exact Learning Roadmap** — 3-phase approach with the 80/20 Pareto insights
+- **30-Day Training Regimen** — Day-by-day battle plan with MCQ/TBS targets
+- **Professional Mindset** — Psychology of top scorers, error journal method, 5 principles
+- **Resource Curation** — Tiered resource stack ranked by impact and ROI
+- **Performance Evaluation** — 20-question diagnostic quiz with scoring guide
+- **Charge Capabilities** — The 7 batteries you must keep charged
+- **Elite Feedback Loops** — Daily, weekly, exam, and meta-learning review cycles
+- **Concepts as Stories** — The Restaurant Analogy, Hedge Love Triangle, Detective Story
+- **Blog Post Template** — 10-point outline + 5 viral headline options
+- **Assumption Reframing** — Challenge the 6 myths that hold candidates back
 
 ---
 
